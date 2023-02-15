@@ -42,8 +42,16 @@ input, textarea, select{
     margin: 10px 0 0;
 }
 
+input, textarea{
+    background-color: beige;
+    border: 1px solid whitesmoke;
+}
+
+
 .inline{
     width: unset;
+    margin: 0 0.5em 0;
+    vertical-align: middle;
 }
 
 textarea{
